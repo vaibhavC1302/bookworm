@@ -1,8 +1,8 @@
 ![WhatsApp Image 2025-09-03 at 11 11 50](https://github.com/user-attachments/assets/c0e9100a-d865-4665-b7c3-819d532b40d2)
+![WhatsApp Image 2025-09-03 at 11 11 50 (1)](https://github.com/user-attachments/assets/e4a9357c-fc4c-49c1-b61e-0af8d00ebf1a)
 ![WhatsApp Image 2025-09-03 at 11 11 51 (2)](https://github.com/user-attachments/assets/8abdd37b-c7ba-44be-8041-41adcdbf9f11)
 ![WhatsApp Image 2025-09-03 at 11 11 51 (1)](https://github.com/user-attachments/assets/29de440f-a462-4646-b199-1cd7df5b9a45)
 ![WhatsApp Image 2025-09-03 at 11 11 51](https://github.com/user-attachments/assets/269e0768-eef6-4cfd-abf4-95b8ab3cfb76)
-![WhatsApp Image 2025-09-03 at 11 11 50 (1)](https://github.com/user-attachments/assets/e4a9357c-fc4c-49c1-b61e-0af8d00ebf1a)
 
 
 A full-stack mobile application where book lovers can share recommendations, discover new reads, and connect with fellow readers.
